@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">登录</string>
+    <string name="str_title">信息管理学院</string>
+    <string name="hint_username">手机号</string>
+    <string name="hint_password">密码</string>
+    <string name="register_button">注册</string>
+    <string name="login_button">登录</string>
+
+</resources>
